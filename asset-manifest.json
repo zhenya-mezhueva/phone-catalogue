@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/phone-catalogue/static/css/main.0dae1b62.chunk.css",
-    "main.js": "/phone-catalogue/static/js/main.93136fc9.chunk.js",
-    "main.js.map": "/phone-catalogue/static/js/main.93136fc9.chunk.js.map",
+    "main.js": "/phone-catalogue/static/js/main.c97799f2.chunk.js",
+    "main.js.map": "/phone-catalogue/static/js/main.c97799f2.chunk.js.map",
     "runtime-main.js": "/phone-catalogue/static/js/runtime-main.5d179df6.js",
     "runtime-main.js.map": "/phone-catalogue/static/js/runtime-main.5d179df6.js.map",
-    "static/js/2.cbe8f680.chunk.js": "/phone-catalogue/static/js/2.cbe8f680.chunk.js",
-    "static/js/2.cbe8f680.chunk.js.map": "/phone-catalogue/static/js/2.cbe8f680.chunk.js.map",
+    "static/js/2.5ae7415f.chunk.js": "/phone-catalogue/static/js/2.5ae7415f.chunk.js",
+    "static/js/2.5ae7415f.chunk.js.map": "/phone-catalogue/static/js/2.5ae7415f.chunk.js.map",
     "index.html": "/phone-catalogue/index.html",
     "static/css/main.0dae1b62.chunk.css.map": "/phone-catalogue/static/css/main.0dae1b62.chunk.css.map",
-    "static/js/2.cbe8f680.chunk.js.LICENSE.txt": "/phone-catalogue/static/js/2.cbe8f680.chunk.js.LICENSE.txt"
+    "static/js/2.5ae7415f.chunk.js.LICENSE.txt": "/phone-catalogue/static/js/2.5ae7415f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5d179df6.js",
-    "static/js/2.cbe8f680.chunk.js",
+    "static/js/2.5ae7415f.chunk.js",
     "static/css/main.0dae1b62.chunk.css",
-    "static/js/main.93136fc9.chunk.js"
+    "static/js/main.c97799f2.chunk.js"
   ]
 }
